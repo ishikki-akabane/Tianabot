@@ -96,7 +96,7 @@
       "START_IMG": {
          "description": "Enter Your Bot Image Telegraph Link",
          "required": true,
-         "value": ""
+         "value": "https://te.legra.ph/file/b37dae9dcd6b2a2cd1399.jpg"
       },
       "BOT_TUT": {
          "description": "Enter Your Bot Setup Video Tutorial Telegraph Link Leave As it is If You Dont Have",
