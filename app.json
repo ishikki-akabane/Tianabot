@@ -52,7 +52,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1218405248"
+         "value": "5030730429"
       },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
@@ -69,7 +69,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "PrincexBots"
+         "value": "ishikki_akabane"
       },
       "BOT_USERNAME": {
          "description": "Your bot username without the @",
@@ -81,7 +81,7 @@
       },
       "BOT_NAME": {
          "description": "Your Bot Name",
-         "value": "Tiana"
+         "value": "Zerotwo"
       },
       "UPDATE_CHANNEL": {
          "description": "Your Telegram Bot Update Channel username Without @ like: TianaxUpdates.",
@@ -91,7 +91,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username Without @ like: TianaxSupport.",
          "required": true,
-         "value": "TianaxSupport"
+         "value": "suppoortxd"
       },
       "START_IMG": {
          "description": "Enter Your Bot Image Telegraph Link",
